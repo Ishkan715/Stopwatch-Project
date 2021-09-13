@@ -1,0 +1,51 @@
+h1 {
+  font-size: 75px;
+  margin-left: 35%;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+  -webkit-text-stroke: 2px turquoise; /* width and color */
+  font-family: sans;
+  color: transparent;
+}
+
+h2 {
+  font-size: 35px;
+  -webkit-text-stroke: 2px turquoise; /* width and color */
+  font-family: sans;
+  color: transparent;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+h3 {
+  margin-left: 35%;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  margin-left: 35%;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+div {
+  margin-left: 35%;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+#milliseconds {
+  font-size: small;
+}
